@@ -36,7 +36,17 @@ const items = [
 	{
 		src: require('./images/ctc.jpg'),
 		altText: 'Philips CodetoCare',
+		caption: 'Nov-2020 to Dec-2020 | National Winner'
+	},
+	{
+		src: require('./images/zs.jpg'),
+		altText: 'ZSPrize Healthcare Hack',
 		caption: 'Nov-2020'
+	},
+	{
+		src: require('./images/ic.jpg'),
+		altText: 'Microsoft Imagine Cup',
+		caption: 'Dec-2020'
 	},
 ];
 
