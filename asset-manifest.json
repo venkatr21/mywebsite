@@ -1,21 +1,22 @@
 {
   "files": {
     "main.css": "/mywebsite/static/css/main.a454a74c.chunk.css",
-    "main.js": "/mywebsite/static/js/main.d154acff.chunk.js",
-    "main.js.map": "/mywebsite/static/js/main.d154acff.chunk.js.map",
+    "main.js": "/mywebsite/static/js/main.73b46428.chunk.js",
+    "main.js.map": "/mywebsite/static/js/main.73b46428.chunk.js.map",
     "runtime-main.js": "/mywebsite/static/js/runtime-main.2e72d8b5.js",
     "runtime-main.js.map": "/mywebsite/static/js/runtime-main.2e72d8b5.js.map",
     "static/css/2.437d98bc.chunk.css": "/mywebsite/static/css/2.437d98bc.chunk.css",
-    "static/js/2.7485e184.chunk.js": "/mywebsite/static/js/2.7485e184.chunk.js",
-    "static/js/2.7485e184.chunk.js.map": "/mywebsite/static/js/2.7485e184.chunk.js.map",
+    "static/js/2.4f059f81.chunk.js": "/mywebsite/static/js/2.4f059f81.chunk.js",
+    "static/js/2.4f059f81.chunk.js.map": "/mywebsite/static/js/2.4f059f81.chunk.js.map",
     "index.html": "/mywebsite/index.html",
-    "precache-manifest.df61f63c2dea44b2f83b7138c2db9255.js": "/mywebsite/precache-manifest.df61f63c2dea44b2f83b7138c2db9255.js",
+    "precache-manifest.9f31cf37f4ad031e159a98696e316abd.js": "/mywebsite/precache-manifest.9f31cf37f4ad031e159a98696e316abd.js",
     "service-worker.js": "/mywebsite/service-worker.js",
     "static/css/2.437d98bc.chunk.css.map": "/mywebsite/static/css/2.437d98bc.chunk.css.map",
     "static/css/main.a454a74c.chunk.css.map": "/mywebsite/static/css/main.a454a74c.chunk.css.map",
-    "static/js/2.7485e184.chunk.js.LICENSE.txt": "/mywebsite/static/js/2.7485e184.chunk.js.LICENSE.txt",
+    "static/js/2.4f059f81.chunk.js.LICENSE.txt": "/mywebsite/static/js/2.4f059f81.chunk.js.LICENSE.txt",
     "static/media/2dplotter.PNG": "/mywebsite/static/media/2dplotter.67f69b6a.PNG",
     "static/media/ctc.jpg": "/mywebsite/static/media/ctc.5cc41819.jpg",
+    "static/media/ic.jpg": "/mywebsite/static/media/ic.ef1e2c27.jpg",
     "static/media/inf.jpg": "/mywebsite/static/media/inf.b2205e4c.jpg",
     "static/media/iot.png": "/mywebsite/static/media/iot.053b6be7.png",
     "static/media/myn.jpg": "/mywebsite/static/media/myn.ef9c428e.jpg",
@@ -25,13 +26,14 @@
     "static/media/sih.jpg": "/mywebsite/static/media/sih.03d29f3c.jpg",
     "static/media/sth.jpg": "/mywebsite/static/media/sth.591053f3.jpg",
     "static/media/vision.jpeg": "/mywebsite/static/media/vision.92951843.jpeg",
-    "static/media/ydo.jpg": "/mywebsite/static/media/ydo.6e3c624f.jpg"
+    "static/media/ydo.jpg": "/mywebsite/static/media/ydo.6e3c624f.jpg",
+    "static/media/zs.jpg": "/mywebsite/static/media/zs.30b7a28e.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.2e72d8b5.js",
     "static/css/2.437d98bc.chunk.css",
-    "static/js/2.7485e184.chunk.js",
+    "static/js/2.4f059f81.chunk.js",
     "static/css/main.a454a74c.chunk.css",
-    "static/js/main.d154acff.chunk.js"
+    "static/js/main.73b46428.chunk.js"
   ]
 }
