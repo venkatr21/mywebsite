@@ -115,7 +115,7 @@ class Example extends React.Component {
 					activeIndex={activeIndex}
 					next={this.next}
 					previous={this.previous}
-					interval ={2000}
+					interval ={1500}
 				>
 					<CarouselIndicators items={items} activeIndex={activeIndex} onClickHandler={this.goToIndex} />
 					{slides}
