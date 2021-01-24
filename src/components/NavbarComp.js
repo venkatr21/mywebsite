@@ -32,7 +32,7 @@ class MyNav extends Component{
     return(
       <div id="navhome">
       <Navbar width="40%" color="light" light expand="md">
-        <NavbarBrand href="/">Menu</NavbarBrand>
+        <NavbarBrand>Menu</NavbarBrand>
         <NavbarToggler onClick={()=>this.toggle()} />
         <Collapse isOpen={this.state.isOpen} navbar>
           <Nav className="mr-auto" navbar>
